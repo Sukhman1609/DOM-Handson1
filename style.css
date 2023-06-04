@@ -1,0 +1,37 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+body{
+    background-color: lawngreen;
+}
+.card{
+    background-color: blue;
+    width: 150px;
+    height: 200px;
+    border: 3px black;
+}
+
+table{
+    margin-left: 90px;
+    line-height: 30px;
+}
+h3{
+    font-style: italic;
+    font-size: larger;
+    font-weight: bolder;   
+}
+h3:hover{
+    font-size: 30px;
+    color: brown;
+}
+.h3{
+    font-size: 40pt;
+    text-align: center;
+    color: blueviolet;
+}
+
+
